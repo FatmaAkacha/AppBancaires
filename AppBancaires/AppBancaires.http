@@ -1,0 +1,6 @@
+@AppBancaires_HostAddress = http://localhost:5279
+
+GET {{AppBancaires_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
